@@ -1,0 +1,1 @@
+This is the main directory and each file here contains some shell basics.
